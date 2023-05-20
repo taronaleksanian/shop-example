@@ -8,11 +8,8 @@ export default function Hero() {
           <div className="col-10 col-sm-8 col-lg-6">
             <img
               src={heroImg}
-              className="d-block mx-lg-auto img-fluid"
+              className="d-block mx-lg-auto w-100 h-auto"
               alt="Bootstrap Themes"
-              width="700"
-              height="500"
-              loading="lazy"
             />
           </div>
           <div className="col-lg-6">
